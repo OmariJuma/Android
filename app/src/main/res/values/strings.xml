@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kodecamp</string>
+    <string name="button">Button</string>
+    <string name="omar_juma_n_stage_1">Omar Juma \n Stage 1</string>
+    <string name="hi_am_juma_from_kenya_i_am_a_student_currently_persuing_a_bachelors_degree_in_computer_science">Hi, am Juma from Kenya. I am a student currently persuing a bachelors degree in computer science</string>
+    <string name="textview">TextView</string>
+</resources>
